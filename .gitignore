@@ -1,4 +1,4 @@
 target/
- *.toml
+*.toml
 *.lock
 learn/
